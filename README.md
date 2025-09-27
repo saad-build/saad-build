@@ -5,7 +5,7 @@
 ```javascript
 const saad = {
   likes: ["networking", "coding"],
-  current: ["  "],
+  current: ["N/A"],
   prev: ["AriesTECH"],
 };
 ```
