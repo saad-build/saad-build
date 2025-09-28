@@ -1,4 +1,3 @@
-<h2> hi, i'm saad shabir!
 
 ```javascript
 const saad = {
